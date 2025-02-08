@@ -1,4 +1,8 @@
 <h1 align="center">Mixed Messages</h1>
+<p align="center">
+<img width="800" height="500" src="https://github.com/Raaagan/mixed_messages/blob/main/images/mixed_messages.gif"/>
+</p>
+
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a> - <a href="#authors">Authors</a></p>
 
 ## Project Description
